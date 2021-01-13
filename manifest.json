@@ -1,9 +1,0 @@
-{
-  "name": "KLeet",
-  "short_name": "KLeet",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
-  "display": "fullscreen",
-  "scope": "/",
-  "start_url": "https://foxcore-azizi.github.io"
-}
